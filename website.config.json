@@ -1,13 +1,13 @@
 {
   "site": {
-    "name": "Minimal Starter",
-    "tagline": "Your Creative Canvas",
-    "description": "A clean, minimal starter template providing the perfect foundation for your next project. Built with modern tools and ready for your creativity.",
-    "ogImage": "/og-image.png",
+    "name": "Smart Evaluator",
+    "tagline": "সহযোগিতার মাধ্যমে উন্নয়ন",
+    "description": "Smart Evaluator - একটি আধুনিক শিক্ষা মূল্যায়ন সিস্টেম যা সহযোগিতামূলক শিখনের মাধ্যমে শিক্ষার্থীদের উন্নয়নে সাহায্য করে। টিমওয়ার্ক, তাৎক্ষণিক মূল্যায়ন এবং সফট স্কিল উন্নয়নে একটি সম্পূর্ণ সমাধান।",
+    "ogImage": "/hero-banner.png",
     "twitterHandle": "",
     "contact": {
-      "email": "contact@example.com",
-      "company": "Your Company",
+      "email": "mustafa@evaluate.app",
+      "company": "Smart Evaluator",
       "address": ""
     },
     "legal": {
@@ -16,6 +16,6 @@
     }
   },
   "theme": {
-    "defaultTheme": "dark"
+    "defaultTheme": "light"
   }
 }
