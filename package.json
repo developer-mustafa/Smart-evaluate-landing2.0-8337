@@ -40,7 +40,7 @@
     "@tailwindcss/vite": "^4.1.14",
     "@tanstack/react-query": "^5.90.2",
     "ai": "^5.0.70",
-    "atmn": "^0.0.27",
+    "atmn": "^0.0.28",
     "autumn-js": "^0.1.40",
     "better-auth": "^1.3.27",
     "better-auth-cloudflare": "^0.2.7",
